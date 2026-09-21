@@ -4,7 +4,7 @@ A lightweight face identification system that **enrolls** people into a database
 
 Built for the AI/ML Intern assignment at Code Nimbus Solutions, using only free and open-source tools (₹0 / $0 spend).
 
-- **Colab notebook (full walkthrough + results):** <<PASTE COLAB LINK>>
+- **Colab notebook (full walkthrough + results):** https://colab.research.google.com/drive/1hOi5wZjDx4D0evW1W7VS1qL6WhtEcKKC?usp=sharing
 - **Code:** see the [`face_id/`](face_id/) folder
 
 ---
