@@ -1,0 +1,7 @@
+insightface==0.7.3
+onnxruntime==1.18.1
+opencv-python-headless==4.10.0.84
+numpy<2.0
+matplotlib>=3.7
+# optional, only for the Streamlit demo:
+# streamlit>=1.36
